@@ -7,12 +7,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/stargazers">
+  <a href="https://github.com/incmaanop/Auto-Filter-Bot-V2/stargazers">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/incmaanop/Auto-Filter-Bot-V2/fork">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -29,7 +29,7 @@
 
 
 #### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/TroJanzHEX/Auto-Filter-Bot)
+#### This is Version 2 of [Auto Filter Bot](https://github.com/incmaanop/Auto-Filter-Bot)
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -63,19 +63,19 @@ or
 
 [Click here to see tutorial video](https://youtu.be/zum9AUlOgtQ)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [DarkRubix](https://t.me/DarkRubix) and [DarkRubix](https://t.me/DarkRubix) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [DarkRubix](https://t.me/DarkRubix)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/incmaanop/Auto-Filter-Bot-V2)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot-V2
+git clone https://github.com/incmaanop/Auto-Filter-Bot-V2
 cd Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -108,4 +108,4 @@ python3 main.py
 
 [![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+And as always, [DarkRubix](https://t.me/DarkRubix)
